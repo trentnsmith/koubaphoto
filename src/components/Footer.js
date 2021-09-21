@@ -11,6 +11,7 @@ class Footer extends Component {
                         class="btn btn-link btn-floating btn-lg text-dark m-1"
                         href="https://www.facebook.com/paigekoubaphoto/"
                         target="_blank"
+                        rel="noreferrer"
                         role="button"
                         data-mdb-ripple-color="dark"
                     >
@@ -21,6 +22,7 @@ class Footer extends Component {
                         class="btn btn-link btn-floating btn-lg text-dark m-1"
                         href="https://www.instagram.com/paigekoubaphoto/"
                         target="_blank"
+                        rel="noreferrer"
                         role="button"
                         data-mdb-ripple-color="dark"
                     >
