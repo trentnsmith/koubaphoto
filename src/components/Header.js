@@ -22,7 +22,6 @@ class Header extends Component {
                             <a class="nav-link" href="/">home</a>
                         </li>
                         <li class="nav-item dropdown">
-                            {/* <a class="nav-link">galleries</a> */}
                             <a 
                                 class="nav-link dropdown-toggle" 
                                 href="#" 
@@ -50,13 +49,13 @@ class Header extends Component {
                             
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link">investment</a>
+                            <a class="nav-link" href="pricing">investment</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link">meet paige</a>
+                            <a class="nav-link" href="/aboutme">meet paige</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link">contact</a>
+                            <a class="nav-link" href="/contact">contact</a>
                         </li>
                     </ul>
                 </div>
