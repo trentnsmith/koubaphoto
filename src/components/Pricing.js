@@ -6,7 +6,7 @@ class Pricing extends Component {
             <section class="p-5">
                 <div class="container">
                     <div class="row text-center">
-                        <div class="col-md pb-4">
+                        <div class="col-fluid pb-4">
                             <div class="card bg-dark text-light mb-5">
                                 <div class="card-body text-left">
                                     <h3 class="card-title mb-3">
@@ -21,7 +21,7 @@ class Pricing extends Component {
                             pulvinar magna leo, eget dignissim mi ultrices 
                             vel.</p>
                         </div>
-                        <div class="col-md pb-4">
+                        <div class="col-fluid pb-4">
                             <div class="card bg-dark text-light mb-5">
                                 <div class="card-body text-left">
                                     <h3 class="card-title mb-3">
@@ -36,7 +36,7 @@ class Pricing extends Component {
                             pulvinar magna leo, eget dignissim mi ultrices 
                             vel.</p>
                         </div>
-                        <div class="col-md pb-4">
+                        <div class="col-fluid pb-4">
                             <div class="card bg-dark text-light mb-5">
                                 <div class="card-body text-left">
                                     <h3 class="card-title mb-3">
@@ -51,7 +51,7 @@ class Pricing extends Component {
                             pulvinar magna leo, eget dignissim mi ultrices 
                             vel.</p>
                         </div>
-                        <div class="col-md pb-4">
+                        <div class="col-fluid pb-4">
                             <div class="card bg-dark text-light mb-5">
                                 <div class="card-body text-left">
                                     <h3 class="card-title mb-3">
@@ -66,7 +66,7 @@ class Pricing extends Component {
                             pulvinar magna leo, eget dignissim mi ultrices 
                             vel.</p>
                         </div>
-                        <div class="col-md pb-4">
+                        <div class="col-fluid pb-4">
                             <div class="card bg-dark text-light mb-5">
                                 <div class="card-body text-left">
                                     <h3 class="card-title mb-3">
