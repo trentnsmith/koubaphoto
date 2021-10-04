@@ -20,7 +20,7 @@ class MainPage extends Component {
                             <div class="card bg-dark text-light mb-5">
                                 <div class="card-body text-left">
                                     <h3 class="card-title mb-3">
-                                        Weddings/Engagements
+                                        <a href="/wedding-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Weddings/Engagements </a>
                                     </h3>
                                 </div>
                             </div>
@@ -29,7 +29,7 @@ class MainPage extends Component {
                             <div class="card bg-dark text-light mb-5">
                                 <div class="card-body text-left">
                                     <h3 class="card-title mb-3">
-                                        Families/Children
+                                        <a href="/family-gallery" style={{'text-decoration': 'none', 'color': 'white'}}> Families/Children </a>
                                     </h3>
                                 </div>
                             </div>
@@ -38,7 +38,7 @@ class MainPage extends Component {
                             <div class="card bg-dark text-light mb-5">
                                 <div class="card-body text-left">
                                     <h3 class="card-title mb-3">
-                                        Lifestyle Newborn
+                                        <a href="#" style={{'text-decoration': 'none', 'color': 'white'}}>Lifestyle Newborn </a>
                                     </h3>
                                 </div>
                             </div>
@@ -47,7 +47,7 @@ class MainPage extends Component {
                             <div class="card bg-dark text-light mb-5">
                                 <div class="card-body text-left">
                                     <h3 class="card-title mb-3">
-                                        Seniors
+                                        <a href="#" style={{'text-decoration': 'none', 'color': 'white'}}>Seniors </a>
                                     </h3>
                                 </div>
                             </div>

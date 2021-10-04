@@ -4,7 +4,7 @@ class Header extends Component {
     render() {
         return (
             <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
-                <a href="#" class="navbar-brand">PKP LOGO</a>
+                <a href="/" class="navbar-brand">PKP LOGO</a>
 
                 <button 
                     class="navbar-toggler" 
@@ -33,10 +33,10 @@ class Header extends Component {
                             </a>
                             <ul class="dropdown-menu dropdown-menu-dark">
                                 <li>
-                                    <a class="dropdown-item" href="#">weddings/engagements</a>
+                                    <a class="dropdown-item" href="/wedding-gallery">weddings/engagements</a>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item" href="#">families/children</a>
+                                    <a class="dropdown-item" href="/family-gallery">families/children</a>
                                 </li>
                                 <li>
                                     <a class="dropdown-item" href="#">lifestyle newborn</a>
@@ -49,7 +49,7 @@ class Header extends Component {
                             
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="pricing">investment</a>
+                            <a class="nav-link" href="/pricing">investment</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/aboutme">meet paige</a>
