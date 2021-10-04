@@ -7,6 +7,7 @@ import AboutMe from './components/AboutMe';
 import Pricing from './components/Pricing';
 import Contact from './components/Contact';
 import WeddingGallery from './components/WeddingGallery';
+import FamilyGallery from './components/FamilyGallery';
 import { Route, BrowserRouter } from 'react-router-dom';
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Route path="/pricing" component={Pricing}/>
         <Route path="/contact" component={Contact}/>
         <Route path="/wedding-gallery" component={WeddingGallery}/>
+        <Route path="/family-gallery" component={FamilyGallery} />
       </BrowserRouter>
       <Footer />
     </main>
