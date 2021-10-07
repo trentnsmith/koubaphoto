@@ -1,10 +1,14 @@
 import React, { Component } from 'react';
+// import logo from '../img/logo/logo.jpg';
 
 class Header extends Component {
     render() {
         return (
             <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
-                <a href="/" class="navbar-brand">PKP LOGO</a>
+                <a href="/" class="navbar-brand">
+                <img src="../img/logo/logo.jpg" alt="logo"/>
+                
+                </a>
 
                 <button 
                     class="navbar-toggler" 

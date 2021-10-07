@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import WedCardBg from '../img/wedding/Wedding-Couples-18.jpg';
 
 class MainPage extends Component {
     render() {
@@ -17,7 +18,7 @@ class MainPage extends Component {
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-md">
-                            <div class="card bg-dark text-light mb-5">
+                            <div class="card bg-dark text-light mb-5" style={{'backgroundImage': `url(${WedCardBg})`, 'backgroundSize': 'cover'}}>
                                 <div class="card-body text-left">
                                     <h3 class="card-title mb-3">
                                         <a href="/wedding-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Weddings/Engagements </a>
@@ -26,7 +27,7 @@ class MainPage extends Component {
                             </div>
                         </div>
                         <div class="col-md">
-                            <div class="card bg-dark text-light mb-5">
+                            <div class="card bg-dark text-light mb-5" style={{'backgroundImage': `url(${WedCardBg})`, 'backgroundSize': 'cover'}}>
                                 <div class="card-body text-left">
                                     <h3 class="card-title mb-3">
                                         <a href="/family-gallery" style={{'text-decoration': 'none', 'color': 'white'}}> Families/Children </a>
