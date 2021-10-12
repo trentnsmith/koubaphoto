@@ -1,0 +1,73 @@
+.App {
+    font-family: adobe-caslon-pro,serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.head-hero {
+    background-image: url('./img/wedding/Wedding-Couples-9.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    height: 75vh;
+}
+
+
+.navbar {
+    margin: 0 20px;
+}
+
+.col-md > .card {
+    height: 25vh;
+}
+
+.maincard1 {
+    background-image: url('./img/wedding/Wedding-Couples-18.jpg');
+
+}
+
+.maincard2 {
+    background-image: url('./img/wedding/Wedding-Couples-17.jpg');
+}
+
+
+.maincard3 {
+    background-image: url('./img/wedding/Wedding-Couples-17.jpg');
+}
+
+.maincard4 {
+    background-image: url('./img/wedding/Wedding-Couples-17.jpg');
+}
+
+
+li {
+    list-style: square;
+    text-align: left;
+}
+
+.aboutme-div {
+    width: 100%;
+    margin: 0 20px;
+}
+
+.aboutme-img {
+    background-image: url('./img/paige2.jpeg');
+    background-size: cover;
+    background-position: center;
+    height: 50vh;
+    max-width: 780px;
+}
+
+@media only screen and (max-width: 440px) {
+    .hero-main {
+        height: 35vh;
+    }
+}
+
+@media only screen and (min-width: 750px) {
+    .App {
+        width: 80%;
+        margin: 0 auto;
+    }
+    
+}
