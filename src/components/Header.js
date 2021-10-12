@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-// import logo from '../img/logo/logo.jpg';
+import Logo from '../img/logo/logo3.png';
 
 class Header extends Component {
     render() {
         return (
-            <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+            <nav class="navbar navbar-expand-lg navbar-light">
                 <a href="/" class="navbar-brand">
-                <img src="../img/logo/logo.jpg" alt="logo"/>
+                <img src={Logo} alt="logo" />
                 
                 </a>
 

@@ -1,11 +1,17 @@
 import React, { Component } from 'react';
+import Header from './Header';
 
 class AboutMe extends Component {
     render() {
         return (
+            <div>
+            <Header />
             <section>
-                <div class="text-center">
-                   <img style={{'width': '40%'}} src="https://scontent-dfw5-2.xx.fbcdn.net/v/t1.6435-9/93032081_10158375528196468_1329102016571506688_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=IzGeYScqF_kAX80AvZ5&tn=oVCkDNk-Ei-Blm0L&_nc_ht=scontent-dfw5-2.xx&oh=2088b6bd48d93648501ebcdf3985235b&oe=616FDF63" class="img-thumbnail rounded float-right mt-5" alt="Paige"/>
+                <div class="text-center aboutme-div">
+                    <div class="aboutme-img">
+
+                    </div>
+                   {/* <img style={{'width': '40%'}} src="./img/paige2.jpeg" class="img-thumbnail rounded float-right mt-5" alt="Paige"/> */}
                 </div>
                 <div class="m-5">
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing 
@@ -23,6 +29,7 @@ class AboutMe extends Component {
                     <p>CALL TO ACTION...</p>
                 </div>
             </section>
+            </div>
         );
     }
 }

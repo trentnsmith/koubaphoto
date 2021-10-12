@@ -10,12 +10,14 @@ import WeddingGallery from './components/WeddingGallery';
 import FamilyGallery from './components/FamilyGallery';
 import { Route, BrowserRouter } from 'react-router-dom';
 
+import './style.css';
+
 function App() {
   return (
     <main className='App'>
       
-      <Header />
-      <MainHero />
+      {/* <Header />
+      <MainHero /> */}
       <BrowserRouter>
         <Route exact path="/" component={MainPage}/>
         <Route path="/aboutme" component={AboutMe}/>
