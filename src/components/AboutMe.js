@@ -5,7 +5,7 @@ class AboutMe extends Component {
     render() {
         return (
             <div>
-            <Header />
+            
             <section>
                 <div class="text-center aboutme-div">
                     <div class="aboutme-img">
