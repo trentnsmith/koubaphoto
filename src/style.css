@@ -17,28 +17,88 @@
     margin: 0 20px;
 }
 
+.nav-item {
+    list-style: none;
+}
+
+.dropdown-menu li {
+    list-style: none;
+}
+
 .col-md > .card {
     height: 25vh;
 }
 
 .maincard1 {
     background-image: url('./img/wedding/Wedding-Couples-18.jpg');
+    background-size: cover;
 
 }
 
 .maincard2 {
-    background-image: url('./img/wedding/Wedding-Couples-17.jpg');
+    background-image: url('./img/wedding/Wedding-Couples-34.jpg');
+    background-size: cover;
+    background-position: left;
 }
 
 
 .maincard3 {
-    background-image: url('./img/wedding/Wedding-Couples-17.jpg');
+    background-image: url('./img/wedding/Wedding-Couples-27.jpg');
+    background-size: cover;
 }
 
 .maincard4 {
-    background-image: url('./img/wedding/Wedding-Couples-17.jpg');
+    background-image: url('./img/wedding/Wedding-Couples-4.jpg');
+    background-size: cover;
 }
 
+.pricecard1 {
+    background-image: url('./img/wedding/Wedding-Couples-4.jpg');
+    background-size: cover;
+}
+
+.pricecard2 {
+    background-image: url('./img/wedding/Wedding-Couples-4.jpg');
+    background-size: cover;
+}
+
+.pricecard3 {
+    background-image: url('./img/wedding/Wedding-Couples-4.jpg');
+    background-size: cover;
+}
+
+.pricecard4 {
+    background-image: url('./img/wedding/Wedding-Couples-4.jpg');
+    background-size: cover;
+}
+
+.col-fluid > .card {
+    height: 25vh;
+}
+
+.button-wrap {
+    display: flex;
+    justify-content: center;
+}
+
+.button-wrap > .btn {
+    border-color: rgb(126, 81, 23);
+    border: 2px solid rgb(126, 81, 23);
+    border-radius: 0;
+}
+
+.button-wrap > .btn:hover {
+    background: rgb(126, 81, 23);
+}
+
+.btn > a {
+    text-decoration: none;
+    color: rgb(126, 81, 23);
+}
+
+.btn > a:hover {
+    color: white;
+}
 
 li {
     list-style: square;
@@ -57,6 +117,14 @@ li {
     height: 50vh;
     max-width: 780px;
 }
+
+#carouselExampleIndicators .carousel-item img{
+    object-fit: cover;
+    object-position: center;
+    height: 30vh;
+}
+
+
 
 @media only screen and (max-width: 440px) {
     .hero-main {
