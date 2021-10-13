@@ -8,6 +8,8 @@ import Pricing from './components/Pricing';
 import Contact from './components/Contact';
 import WeddingGallery from './components/WeddingGallery';
 import FamilyGallery from './components/FamilyGallery';
+import LifestyleGallery from './components/LifestyleGallery';
+import SeniorsGallery from './components/SeniorsGallery';
 import { Route, BrowserRouter } from 'react-router-dom';
 
 import './style.css';
@@ -18,6 +20,7 @@ function App() {
       
       {/* <Header />
       <MainHero /> */}
+      <Header />
       <BrowserRouter>
         <Route exact path="/" component={MainPage}/>
         <Route path="/aboutme" component={AboutMe}/>
@@ -25,6 +28,8 @@ function App() {
         <Route path="/contact" component={Contact}/>
         <Route path="/wedding-gallery" component={WeddingGallery}/>
         <Route path="/family-gallery" component={FamilyGallery} />
+        <Route path="/newborn-gallery" component={LifestyleGallery} />
+        <Route path="/seniors-gallery" component={SeniorsGallery} />
       </BrowserRouter>
       <Footer />
     </main>
