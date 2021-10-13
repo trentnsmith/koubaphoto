@@ -4,15 +4,14 @@ import Header from './Header';
 class Pricing extends Component {
     render() {
         return (
-            <div>
-                <Header />
+            
             <section class="p-5">
                 <div class="container">
                     <div class="row text-center">
                         <div class="col-fluid pb-4">
-                            <div class="card bg-dark text-light mb-5">
-                                <div class="card-body text-left">
-                                    <h3 class="card-title mb-3">
+                            <div class="card bg-dark text-light mb-5 pricecard1">
+                                <div class="card-body text-left position-relative">
+                                    <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle">
                                         Weddings
                                     </h3>
                                 </div>
@@ -45,9 +44,9 @@ class Pricing extends Component {
                             </div>
                         </div> */}
                         <div class="col-fluid pb-4">
-                            <div class="card bg-dark text-light mb-5">
-                                <div class="card-body text-left">
-                                    <h3 class="card-title mb-3">
+                            <div class="card bg-dark text-light mb-5 pricecard2">
+                                <div class="card-body text-left position-relative">
+                                    <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle">
                                         Families/Children
                                     </h3>
                                 </div>
@@ -61,9 +60,9 @@ class Pricing extends Component {
                             </div>
                         </div>
                         <div class="col-fluid pb-4">
-                            <div class="card bg-dark text-light mb-5">
-                                <div class="card-body text-left">
-                                    <h3 class="card-title mb-3">
+                            <div class="card bg-dark text-light mb-5 pricecard3">
+                                <div class="card-body text-left position-relative">
+                                    <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle">
                                         Lifestyle Newborn
                                     </h3>
                                 </div>
@@ -78,9 +77,9 @@ class Pricing extends Component {
                             </div>
                         </div>
                         <div class="col-fluid pb-4">
-                            <div class="card bg-dark text-light mb-5">
-                                <div class="card-body text-left">
-                                    <h3 class="card-title mb-3">
+                            <div class="card bg-dark text-light mb-5 pricecard4">
+                                <div class="card-body text-left position-relative">
+                                    <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle">
                                         Seniors
                                     </h3>
                                 </div>
@@ -96,8 +95,13 @@ class Pricing extends Component {
                         </div>
                     </div>
                 </div>
+                
+                <div class="button-wrap">
+                    <button type="button" class="btn btn-outline-secondary btn-lg">
+                        <a href="/contact">Contact Me</a>
+                    </button>
+                </div>
             </section>
-            </div>
         );
     }
 }
