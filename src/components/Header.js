@@ -6,8 +6,7 @@ class Header extends Component {
         return (
             <nav class="navbar navbar-expand-lg navbar-light">
                 <a href="/" class="navbar-brand">
-                <img src={Logo} alt="logo" />
-                
+                    <img src={Logo} alt="logo" />
                 </a>
 
                 <button 
@@ -43,10 +42,10 @@ class Header extends Component {
                                     <a class="dropdown-item" href="/family-gallery">families/children</a>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item" href="#">lifestyle newborn</a>
+                                    <a class="dropdown-item" href="/newborn-gallery">lifestyle newborn</a>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item" href="#">seniors</a>
+                                    <a class="dropdown-item" href="/seniors-gallery">seniors</a>
                                 </li>
                                 
                             </ul>
