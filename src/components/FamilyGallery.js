@@ -1,29 +1,29 @@
 import React, { Component } from 'react';
-import WeddingCouple1 from '../img/wedding/Wedding-Couples-1.jpg';
-import WeddingCouple2 from '../img/wedding/Wedding-Couples-2.jpg';
-import WeddingCouple3 from '../img/wedding/Wedding-Couples-3.jpg';
-import WeddingCouple4 from '../img/wedding/Wedding-Couples-4.jpg';
-import WeddingCouple5 from '../img/wedding/Wedding-Couples-5.jpg';
-import WeddingCouple6 from '../img/wedding/Wedding-Couples-6.jpg';
-import WeddingCouple7 from '../img/wedding/Wedding-Couples-7.jpg';
-import WeddingCouple8 from '../img/wedding/Wedding-Couples-8.jpg';
-import WeddingCouple9 from '../img/wedding/Wedding-Couples-9.jpg';
-import WeddingCouple10 from '../img/wedding/Wedding-Couples-10.jpg';
-import WeddingCouple11 from '../img/wedding/Wedding-Couples-11.jpg';
-import WeddingCouple12 from '../img/wedding/Wedding-Couples-12.jpg';
-import WeddingCouple13 from '../img/wedding/Wedding-Couples-13.jpg';
-import WeddingCouple14 from '../img/wedding/Wedding-Couples-14.jpg';
-import WeddingCouple15 from '../img/wedding/Wedding-Couples-15.jpg';
-import WeddingCouple16 from '../img/wedding/Wedding-Couples-16.jpg';
-import WeddingCouple17 from '../img/wedding/Wedding-Couples-17.jpg';
-import WeddingCouple18 from '../img/wedding/Wedding-Couples-18.jpg';
-import WeddingCouple19 from '../img/wedding/Wedding-Couples-19.jpg';
-import WeddingCouple20 from '../img/wedding/Wedding-Couples-20.jpg';
-import WeddingCouple21 from '../img/wedding/Wedding-Couples-21.jpg';
-import WeddingCouple22 from '../img/wedding/Wedding-Couples-22.jpg';
-import WeddingCouple23 from '../img/wedding/Wedding-Couples-23.jpg';
-import WeddingCouple24 from '../img/wedding/Wedding-Couples-24.jpg';
-import WeddingCouple25 from '../img/wedding/Wedding-Couples-25.jpg';
+import FamilyPhoto1 from '../img/family/Family-1.jpg'
+import FamilyPhoto2 from '../img/family/Family-2.jpg'
+import FamilyPhoto3 from '../img/family/Family-3.jpg'
+import FamilyPhoto4 from '../img/family/Family-4.jpg'
+import FamilyPhoto5 from '../img/family/Family-5.jpg'
+import FamilyPhoto6 from '../img/family/Family-6.jpg'
+import FamilyPhoto7 from '../img/family/Family-7.jpg'
+import FamilyPhoto8 from '../img/family/Family-8.jpg'
+import FamilyPhoto9 from '../img/family/Family-9.jpg'
+import FamilyPhoto10 from '../img/family/Family-10.jpg'
+import FamilyPhoto11 from '../img/family/Family-11.jpg'
+import FamilyPhoto12 from '../img/family/Family-12.jpg'
+import FamilyPhoto13 from '../img/family/Family-13.jpg'
+import FamilyPhoto14 from '../img/family/Family-14.jpg'
+import FamilyPhoto15 from '../img/family/Family-15.jpg'
+import FamilyPhoto16 from '../img/family/Family-16.jpg'
+import FamilyPhoto17 from '../img/family/Family-17.jpg'
+import FamilyPhoto18 from '../img/family/Family-18.jpg'
+import FamilyPhoto19 from '../img/family/Family-19.jpg'
+import FamilyPhoto20 from '../img/family/Family-20.jpg'
+import FamilyPhoto21 from '../img/family/Family-21.jpg'
+import FamilyPhoto22 from '../img/family/Family-22.jpg'
+import FamilyPhoto23 from '../img/family/Family-23.jpg'
+import FamilyPhoto24 from '../img/family/Family-24.jpg'
+import FamilyPhoto25 from '../img/family/Family-25.jpg'
 
 
 class FamilyGallery extends Component {
@@ -32,97 +32,98 @@ class FamilyGallery extends Component {
 
         return (
             <section>
-            <div class="p-3">
-                <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-                
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <img src={WeddingCouple1} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple2} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple3} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple4} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple5} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple6} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple7} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple8} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple9} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple10} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple11} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple12} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple13} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple14} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple15} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple16} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple17} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple18} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple19} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple20} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple21} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple22} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple23} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple24} class="d-block w-100" alt="wedding photo"/>
-                    </div>
-                    <div class="carousel-item">
-                        <img src={WeddingCouple25} class="d-block w-100" alt="wedding photo"/>
-                    </div>
+                <h3 class="gallery-heading">Family and Children Gallery</h3>
+                <div class="p-3 slideshow-block">
+                    <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+                    
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <img src={FamilyPhoto1} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto2} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto3} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto4} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto5} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto6} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto7} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto8} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto9} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto10} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto11} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto12} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto13} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto14} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto15} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto16} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto17} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto18} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto19} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto20} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto21} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto22} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto23} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto24} class="d-block w-100" alt="family photo"/>
+                        </div>
+                        <div class="carousel-item">
+                            <img src={FamilyPhoto25} class="d-block w-100" alt="family photo"/>
+                        </div>
 
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                    </div>
                 </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                </button>
-                </div>
-            </div>
             </section>
         );
     }

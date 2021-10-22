@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import Header from './Header';
 
 class Pricing extends Component {
     render() {
@@ -26,28 +25,12 @@ class Pricing extends Component {
                                 </ul>
                             </div>
                         </div>
-                        {/* <div class="col-fluid pb-4">
-                            <div class="card bg-dark text-light mb-5">
-                                <div class="card-body text-left">
-                                    <h3 class="card-title mb-3">
-                                        Engagement Sessions
-                                    </h3>
-                                </div>
-                            </div>
-                            <div class="price-amount">
-                                <h4>Starting at $350</h4>
-                                <ul>
-                                    <li>Two-hour session</li>
-                                    <li>Up to three outfits</li>
-                                    <li>Online gallery with full-resolution edited images</li>
-                                </ul>
-                            </div>
-                        </div> */}
+                        
                         <div class="col-fluid pb-4">
                             <div class="card bg-dark text-light mb-5 pricecard2">
                                 <div class="card-body text-left position-relative">
                                     <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle">
-                                        Families/Children
+                                        Families
                                     </h3>
                                 </div>
                             </div>

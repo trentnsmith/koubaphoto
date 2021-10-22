@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import WedCardBg from '../img/wedding/Wedding-Couples-18.jpg';
-// import MainHero from './MainHero';
+import MainHero from './MainHero';
 import Header from './Header';
 
 class MainPage extends Component {
@@ -10,7 +10,7 @@ class MainPage extends Component {
                
                 <div class="head-hero">
                     
-                    {/* <MainHero /> */}
+                    <MainHero />
                 </div>
             <section class="p-5">
                 <div class="container">
@@ -18,8 +18,8 @@ class MainPage extends Component {
                         <div class="col-md">
                             <div class="card bg-dark text-light mb-5 maincard1">
                                 <div class="card-body text-left position-relative">
-                                    <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle">
-                                        <a href="/wedding-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Weddings/Engagements </a>
+                                    <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle" >
+                                        <a href="/wedding-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Weddings </a>
                                     </h3>
                                 </div>
                             </div>
@@ -28,7 +28,7 @@ class MainPage extends Component {
                             <div class="card bg-dark text-light mb-5 maincard2">
                                 <div class="card-body text-left position-relative">
                                     <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle">
-                                        <a href="/family-gallery" style={{'text-decoration': 'none', 'color': 'white'}}> Families/Children </a>
+                                        <a href="/family-gallery" style={{'text-decoration': 'none', 'color': 'white'}}> Families</a>
                                     </h3>
                                 </div>
                             </div>
@@ -37,7 +37,7 @@ class MainPage extends Component {
                             <div class="card bg-dark text-light mb-5 maincard3">
                                 <div class="card-body text-left position-relative">
                                     <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle">
-                                        <a href="/newborn-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Lifestyle Newborn </a>
+                                        <a href="/newborn-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Newborn</a>
                                     </h3>
                                 </div>
                             </div>
@@ -46,7 +46,7 @@ class MainPage extends Component {
                             <div class="card bg-dark text-light mb-5 maincard4">
                                 <div class="card-body text-left position-relative">
                                     <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle">
-                                        <a href="/seniors-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Seniors </a>
+                                        <a href="/seniors-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Seniors</a>
                                     </h3>
                                 </div>
                             </div>
