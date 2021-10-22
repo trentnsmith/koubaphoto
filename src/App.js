@@ -1,6 +1,5 @@
 import React from 'react';
 import Header from './components/Header';
-import MainHero from './components/MainHero';
 import MainPage from './components/MainPage';
 import Footer from './components/Footer';
 import AboutMe from './components/AboutMe';
@@ -18,8 +17,7 @@ function App() {
   return (
     <main className='App'>
       
-      {/* <Header />
-      <MainHero /> */}
+     
       <Header />
       <BrowserRouter>
         <Route exact path="/" component={MainPage}/>

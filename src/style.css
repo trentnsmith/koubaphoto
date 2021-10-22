@@ -10,8 +10,20 @@
     background-size: cover;
     background-position: top center;
     height: 75vh;
+    display: flex;
+    align-items: flex-end;
 }
 
+
+h3 {
+    font-family: 'Antonio Fischer', sans-serif;
+    font-size: 72px;
+}
+
+h1 {
+    font-family: 'Antonio Fischer', sans-serif;
+    font-size: 90px;
+}
 
 .navbar {
     margin: 0 20px;
@@ -32,45 +44,56 @@
 .maincard1 {
     background-image: url('./img/wedding/Wedding-Couples-18.jpg');
     background-size: cover;
-
+    background-position: center;
 }
 
 .maincard2 {
-    background-image: url('./img/wedding/Wedding-Couples-34.jpg');
+    background-image: url('./img/family/Family-15.jpg');
     background-size: cover;
-    background-position: left;
+    background-position: center;
 }
 
 
 .maincard3 {
-    background-image: url('./img/wedding/Wedding-Couples-27.jpg');
+    background-image: url('./img/newborn/Newborn-5.jpg');
     background-size: cover;
+    background-position: center;
 }
 
 .maincard4 {
-    background-image: url('./img/wedding/Wedding-Couples-4.jpg');
+    background-image: url('./img/senior/Seniors-3.jpg');
     background-size: cover;
+    background-position: center;
 }
 
+
 .pricecard1 {
-    background-image: url('./img/wedding/Wedding-Couples-4.jpg');
+    background-image: url('./img/wedding/Wedding-Couples-12.jpg');
     background-size: cover;
+    background-position: center;
 }
 
 .pricecard2 {
-    background-image: url('./img/wedding/Wedding-Couples-4.jpg');
+    background-image: url('./img/family/Family-23.jpg');
     background-size: cover;
+    background-position: center;
 }
 
 .pricecard3 {
-    background-image: url('./img/wedding/Wedding-Couples-4.jpg');
+    background-image: url('./img/newborn/Newborn-18.jpg');
     background-size: cover;
+    background-position: center;
 }
 
 .pricecard4 {
-    background-image: url('./img/wedding/Wedding-Couples-4.jpg');
+    background-image: url('./img/senior/Seniors-1.jpg');
     background-size: cover;
+    background-position: center;
 }
+
+
+
+
 
 .col-fluid > .card {
     height: 25vh;
@@ -100,6 +123,13 @@
     color: white;
 }
 
+form {
+    margin-top: 30px;
+}
+#form-div {
+    margin: auto;
+}
+
 .form-submit-btn {
     border-color: rgb(126, 81, 23);
     border: 2px solid rgb(126, 81, 23);
@@ -112,39 +142,69 @@
     background: rgb(126, 81, 23);
 }
 
-
-
-
 li {
     list-style: square;
     text-align: left;
 }
 
-.aboutme-div {
-    width: 100%;
-    margin: 0 20px;
-}
 
 .aboutme-img {
     background-image: url('./img/paige2.jpeg');
     background-size: cover;
     background-position: center;
-    height: 50vh;
+    height: 70vh;
     max-width: 780px;
+    margin: auto;
+}
+
+
+#carouselExampleIndicators {
+    max-width: 750px;
+    margin: auto;
 }
 
 #carouselExampleIndicators .carousel-item img{
     object-fit: cover;
     object-position: center;
-    height: 30vh;
+    height: 50vh;
+    max-width: 750px;
 }
 
+.gallery-heading {
+    margin: auto;
+    text-align: center;
+    margin: 30px 0;
+}
 
+.col-md:hover {
+    transition: .2s;
+}
+
+.col-md .card:hover {
+    opacity: 0.5;
+    transition: .2s;
+}
+
+.session-dropdown {
+    margin: 0 20px;
+    justify-content: space-between;
+}
+
+.date-container {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.date-input {
+    width: 25%;
+    text-align: center;
+}
 
 @media only screen and (max-width: 440px) {
-    .hero-main {
-        height: 35vh;
-    }
+    
+
 }
 
 @media only screen and (min-width: 750px) {
@@ -152,5 +212,20 @@ li {
         width: 80%;
         margin: 0 auto;
     }
+
+    #carouselExampleIndicators .carousel-item img{
+        height: 70vh;
+    }
+
+    .row {
+        flex-direction: column;
+    }
+    
+}
+@media only screen and (min-width: 1200px) {
+    .row {
+        flex-direction: row;
+    }
+
     
 }
