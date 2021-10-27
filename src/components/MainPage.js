@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import WedCardBg from '../img/wedding/Wedding-Couples-18.jpg';
 import MainHero from './MainHero';
-import Header from './Header';
 
 class MainPage extends Component {
     render() {

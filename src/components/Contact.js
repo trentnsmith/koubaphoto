@@ -55,7 +55,7 @@ class Contact extends Component {
                           </div>
                           <div class="col mb-3">
                               <label for="message" class="form-label">Message:</label>
-                              <textarea name="" class="form-control" name="Message" placeholder="Write Your Message Here" rows="3" />
+                              <textarea class="form-control" name="Message" placeholder="Write Your Message Here" rows="3" />
                           </div>
                         
                         <div class="col-md-12">

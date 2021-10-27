@@ -29,61 +29,61 @@ class SeniorsGallery extends Component {
                     
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src={SeniorPhoto1} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto1} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto2} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto2} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto3} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto3} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto4} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto4} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto5} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto5} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto6} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto6} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto7} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto7} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto8} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto8} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto9} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto9} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto10} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto10} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto11} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto11} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto12} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto12} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto13} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto13} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto14} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto14} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto15} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto15} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto16} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto16} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto17} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto17} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto18} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto18} class="d-block w-100" alt="senior"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={SeniorPhoto19} class="d-block w-100" alt="senior photo"/>
+                            <img src={SeniorPhoto19} class="d-block w-100" alt="senior"/>
                         </div>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">

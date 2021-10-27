@@ -38,79 +38,79 @@ class WeddingGallery extends Component {
                     
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src={WeddingCouple1} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple1} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple2} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple2} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple3} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple3} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple4} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple4} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple5} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple5} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple6} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple6} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple7} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple7} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple8} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple8} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple9} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple9} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple10} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple10} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple11} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple11} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple12} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple12} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple13} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple13} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple14} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple14} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple15} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple15} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple16} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple16} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple17} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple17} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple18} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple18} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple19} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple19} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple20} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple20} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple21} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple21} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple22} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple22} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple23} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple23} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple24} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple24} class="d-block w-100" alt="wedding"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={WeddingCouple25} class="d-block w-100" alt="wedding photo"/>
+                            <img src={WeddingCouple25} class="d-block w-100" alt="wedding"/>
                         </div>
 
                     </div>

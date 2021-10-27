@@ -35,79 +35,79 @@ class LifestyleGallery extends Component {
                     
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src={NewbornPhoto1} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto1} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto2} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto2} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto3} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto3} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto4} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto4} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto5} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto5} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto6} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto6} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto7} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto7} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto8} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto8} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto9} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto9} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto10} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto10} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto11} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto11} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto12} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto12} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto13} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto13} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto14} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto14} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto15} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto15} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto16} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto16} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto17} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto17} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto18} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto18} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto19} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto19} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto20} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto20} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto21} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto21} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto22} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto22} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto23} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto23} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto24} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto24} class="d-block w-100" alt="newborn"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={NewbornPhoto25} class="d-block w-100" alt="newborn photo"/>
+                            <img src={NewbornPhoto25} class="d-block w-100" alt="newborn"/>
                         </div>
 
                     </div>

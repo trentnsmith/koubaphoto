@@ -38,79 +38,79 @@ class FamilyGallery extends Component {
                     
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src={FamilyPhoto1} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto1} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto2} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto2} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto3} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto3} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto4} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto4} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto5} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto5} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto6} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto6} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto7} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto7} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto8} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto8} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto9} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto9} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto10} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto10} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto11} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto11} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto12} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto12} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto13} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto13} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto14} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto14} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto15} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto15} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto16} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto16} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto17} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto17} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto18} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto18} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto19} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto19} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto20} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto20} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto21} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto21} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto22} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto22} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto23} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto23} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto24} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto24} class="d-block w-100" alt="family"/>
                         </div>
                         <div class="carousel-item">
-                            <img src={FamilyPhoto25} class="d-block w-100" alt="family photo"/>
+                            <img src={FamilyPhoto25} class="d-block w-100" alt="family"/>
                         </div>
 
                     </div>
