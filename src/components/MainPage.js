@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import MainHero from './MainHero';
+import { Link } from 'react-router-dom';
 
 class MainPage extends Component {
     render() {
@@ -17,7 +18,7 @@ class MainPage extends Component {
                             <div class="card bg-dark text-light mb-5 maincard1">
                                 <div class="card-body text-left position-relative">
                                     <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle" >
-                                        <a href="/wedding-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Weddings </a>
+                                        <Link href="/wedding-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Weddings </Link>
                                     </h3>
                                 </div>
                             </div>
@@ -26,7 +27,7 @@ class MainPage extends Component {
                             <div class="card bg-dark text-light mb-5 maincard2">
                                 <div class="card-body text-left position-relative">
                                     <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle">
-                                        <a href="/family-gallery" style={{'text-decoration': 'none', 'color': 'white'}}> Families</a>
+                                        <Link href="/family-gallery" style={{'text-decoration': 'none', 'color': 'white'}}> Families</Link>
                                     </h3>
                                 </div>
                             </div>
@@ -35,7 +36,7 @@ class MainPage extends Component {
                             <div class="card bg-dark text-light mb-5 maincard3">
                                 <div class="card-body text-left position-relative">
                                     <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle">
-                                        <a href="/newborn-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Newborn</a>
+                                        <Link href="/newborn-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Newborn</Link>
                                     </h3>
                                 </div>
                             </div>
@@ -44,7 +45,7 @@ class MainPage extends Component {
                             <div class="card bg-dark text-light mb-5 maincard4">
                                 <div class="card-body text-left position-relative">
                                     <h3 class="card-title mb-3 position-absolute top-50 start-50 translate-middle">
-                                        <a href="/seniors-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Seniors</a>
+                                        <Link href="/seniors-gallery" style={{'text-decoration': 'none', 'color': 'white'}}>Seniors</Link>
                                     </h3>
                                 </div>
                             </div>
