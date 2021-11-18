@@ -5,9 +5,9 @@ class Header extends Component {
     render() {
         return (
             <nav class="navbar navbar-expand-lg navbar-light">
-                <a href="/" class="navbar-brand">
+                <Link to="/" class="navbar-brand">
                     <img src={Logo} alt="logo" />
-                </a>
+                </Link>
 
                 <button 
                     class="navbar-toggler" 
@@ -22,43 +22,43 @@ class Header extends Component {
                 <div class="collapse navbar-collapse" id="navmenu">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="/">home</a>
+                            <Link class="nav-link" to="/">home</Link>
                         </li>
                         <li class="nav-item dropdown">
-                            <a 
+                            <Link 
                                 class="nav-link dropdown-toggle" 
-                                href="#" 
+                                to="#" 
                                 id="navbarDropdown" 
                                 role="button" 
                                 data-bs-toggle="dropdown"
                             >
                                 galleries
-                            </a>
+                            </Link>
                             <ul class="dropdown-menu dropdown-menu-dark">
                                 <li>
-                                    <a class="dropdown-item" href="/wedding-gallery">weddings/engagements</a>
+                                    <Link class="dropdown-item" to="/wedding-gallery">weddings/engagements</Link>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item" href="/family-gallery">families/children</a>
+                                    <Link class="dropdown-item" to="/family-gallery">families/children</Link>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item" href="/newborn-gallery">lifestyle newborn</a>
+                                    <Link class="dropdown-item" to="/newborn-gallery">lifestyle newborn</Link>
                                 </li>
                                 <li>
-                                    <a class="dropdown-item" href="/seniors-gallery">seniors</a>
+                                    <Link class="dropdown-item" to="/seniors-gallery">seniors</Link>
                                 </li>
                                 
                             </ul>
                             
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/pricing">investment</a>
+                            <Link class="nav-link" to="/pricing">investment</Link>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/aboutme">meet paige</a>
+                            <Link class="nav-link" to="/aboutme">meet paige</Link>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/contact">contact</a>
+                            <Link class="nav-link" to="/contact">contact</Link>
                         </li>
                     </ul>
                 </div>
